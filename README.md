@@ -40,6 +40,10 @@ The project was executed in multiple structured phases:
 - pfSense firewall rules and Snort alerts.
 - Wazuh dashboards showing incident detections.
 
+## let's connect
+🔗 [LinkedIn](https://linkedin.com/in/kiridi-david)
+📧 [Email](mailto:kirididavid@gmail.com)
+
 
 
 ## Project Structure
@@ -53,4 +57,7 @@ The project was executed in multiple structured phases:
 ├── Final_Report
 │   └── David_Kiridi_SOC_Capstone.pdf
 ├── README.md
+
+
+
 
