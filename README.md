@@ -41,7 +41,7 @@ The project was executed in multiple structured phases:
 - Wazuh dashboards showing incident detections.
 
 ## let's connect
-🔗 [LinkedIn](https://linkedin.com/in/kiridi-david)
+🔗 [LinkedIn](https://www.linkedin.com/posts/kiridi-david_soc-threat-detection-capstone-activity-7335657166986514433-dzk1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1dUPEByIj2cRbQAPsn4QcGmvpGWifXhi8)
 📧 [Email](mailto:kirididavid@gmail.com)
 
 
